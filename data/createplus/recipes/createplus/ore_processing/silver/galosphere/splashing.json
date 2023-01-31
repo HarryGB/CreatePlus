@@ -1,0 +1,26 @@
+{
+  "fabric:load_conditions": [
+		{
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "galosphere"
+      ]
+		}
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "create:crushed_silver_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "galosphere:silver_nugget",
+      "count": 9
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "chance": 0.25
+    }
+  ]
+}

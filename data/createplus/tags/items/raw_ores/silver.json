@@ -4,6 +4,10 @@
         {
             "id": "mythicmetals:raw_silver",
             "required": false
+        },
+		{
+            "id": "galosphere:raw_silver",
+            "required": false
         }
     ]
 }

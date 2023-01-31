@@ -4,6 +4,10 @@
         {
             "id": "indrev:silver_ore",
             "required": false
+        },
+		{
+            "id": "galosphere:silver_ore",
+            "required": false
         }
     ]
 }
